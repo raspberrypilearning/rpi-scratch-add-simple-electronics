@@ -1,12 +1,12 @@
-title: rpi-scratch-add-pi-gpio
+title: Adding the Pi GPIO extension to Scratch
 hero_image: images/banner.png
-description: rpi-scratch-add-pi-gpio description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: How to add the Pi GPIO extension to Scratch
+original_url: 
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
-ingredient: false
+ingredient: true
 interests: ""
-technologies: "python"
+technologies: "scratch"
 steps:
-  - title: Step one
+  - title: Add Pi GPIO Extension
