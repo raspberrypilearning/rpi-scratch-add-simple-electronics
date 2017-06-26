@@ -16,4 +16,4 @@ The Pi GPIO extension in Scratch 2 on the Raspberry Pi is needed to control and 
 
 	![pi gpio blocks](images/pi_gpio_blocks.png)
 
-![animation](images/enable-pi-gpio.gif)
+	![animation](images/enable-pi-gpio.gif)
