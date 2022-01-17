@@ -4,4 +4,4 @@
 
 - Choose the Raspberry Pi Seimple Electronics extension from the list
 
-![The Raspberry Pi Simple Electronics extension icon in the Extension list.](images/agpio-extension.png.png)
+![The Raspberry Pi Simple Electronics extension icon in the Extension list.](images/gpio-extension.png.png)
