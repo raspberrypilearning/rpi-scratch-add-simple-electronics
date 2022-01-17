@@ -2,6 +2,6 @@
 
 ![The add extention icon (two seperate blocks with an 'add' sign) is highlighted.](images/add-extension.png)
 
-- Choose the Raspberry Pi Seimple Electronics extension from the list
+- Choose the Raspberry Pi Simple Electronics extension from the list
 
 ![The Raspberry Pi Simple Electronics extension icon in the Extension list.](images/gpio-extension.png)
