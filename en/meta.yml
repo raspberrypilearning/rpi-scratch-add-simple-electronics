@@ -1,6 +1,6 @@
 title: Adding the Simple Electronics extension to Scratch
 hero_image: images/banner.png
-description: How to add the Pi GPIO extension to Scratch
+description: How to add the Simple Electronics extension to Scratch
 original_url: 
 theme: cc-prototype
 duration: 1
@@ -10,4 +10,4 @@ copyedit: true
 interests: ""
 technologies: "scratch"
 steps:
-  - title: Add Pi GPIO extension
+  - title: Add Simple Electronics extension
