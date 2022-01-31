@@ -1,7 +1,7 @@
-- Click on the **Add Extension** button in the bottom left-hand corner of the screen
+- Clicia'r botwm **Ychwanegu Estyniad** ar waelod ochr chwith y dudalen
 
-![The add extention icon (two seperate blocks with an 'add' sign) is highlighted.](images/add-extension.png)
+![Mae'r eicon ychwanegu estyniad (dau floc ar wahân gydag arwydd 'plws') wedi'i hamlygu.](images/add-extension.png)
 
-- Choose the Raspberry Pi Simple Electronics extension from the list
+- Dewisa'r estyniad Raspberry Pi Electroneg Syml o'r rhestr
 
-![The Raspberry Pi Simple Electronics extension icon in the Extension list.](images/gpio-extension.png)
+![Eicon estyniad Raspberry Pi Electroneg Syml yn y rhestr Estyniadau.](images/gpio-extension.png)
