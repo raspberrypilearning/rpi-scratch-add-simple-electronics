@@ -1,19 +1,7 @@
-Mae angen yr estyniad Pi GPIO yn Scratch 2 ar y Raspberry Pi i reoli a darllen cydrannau mewnbwn ac allbwn sy'n gysylltiedig â'r pinnau GPIO.
+- Clicia'r botwm **Ychwanegu Estyniad** ar waelod ochr chwith y dudalen
 
-- Gyda Scratch 2 ar agor, clicia ar **More Blocks** yn y ddewislen Sgriptiau.
-    
-    ![mwy o flociau](images/more_blocks.png)
+![Mae'r eicon ychwanegu estyniad (dau floc ar wahân gydag arwydd 'plws') wedi'i hamlygu.](images/add-extension.png)
 
-- Nesaf clicia ar y botwm **Add an Extension**.
-    
-    ![ychwanegu estyniad](images/add_extension.png)
+- Dewisa'r estyniad Raspberry Pi Electroneg Syml o'r rhestr
 
-- Yna galli di glicio ddwywaith ar yr estyniad Pi GPIO i'w ychwanegu.
-    
-    ![pi gpio](images/pi_gpio.png)
-
-- Nawr dylet ti weld y blociau Pi GPIO yn adran **More Blocks**.
-    
-    ![blociau pi gpio](images/pi_gpio_blocks.png)
-    
-    ![animeiddiad](images/enable-pi-gpio.gif)
+![Eicon estyniad Raspberry Pi Electroneg Syml yn y rhestr Estyniadau.](images/gpio-extension.png)

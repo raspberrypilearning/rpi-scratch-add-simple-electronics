@@ -1,7 +1,7 @@
 ---
-title: Ychwanegu'r estyniad Pi GPIO i Scratch
+title: Adio'r estyniad Electroneg Syml i Scratch
 hero_image: images/banner.png
-description: Sut i ychwanegu'r estyniad Pi GPIO i Scratch
+description: Sut i adio'r estyniad Electroneg Syml i Scratch
 original_url:
 theme: cc-prototype
 duration: 1
@@ -11,4 +11,4 @@ copyedit: true
 interests: ""
 technologies: "scratch"
 steps:
-  - title: Ychwanega'r estyniad Pi GPIO
+  - title: Adio estyniad Electroneg Syml
