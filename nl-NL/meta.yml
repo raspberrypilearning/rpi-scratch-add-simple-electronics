@@ -1,7 +1,7 @@
 ---
-title: De Pi GPIO-uitbreiding toevoegen aan Scratch
+title: Een eenvoudige electronica-uitbreiding aan Scratch toevoegen
 hero_image: images/banner.png
-description: Hoe voeg je de Pi GPIO-uitbreiding toe aan aan Scratch
+description: Hoe je een eenvoudige electronica-uitbreiding aan Scratch toevoegd
 original_url:
 theme: cc-prototype
 duration: 1
@@ -11,4 +11,4 @@ copyedit: true
 interests: ""
 technologies: "scratch"
 steps:
-  - title: Voeg de Pi GPIO-uitbreiding toe
+  - title: De eenvoudige elektronica-uitbreiding toevoegen
