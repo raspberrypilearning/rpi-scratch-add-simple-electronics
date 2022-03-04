@@ -1,7 +1,7 @@
-- Click on the **Add Extension** button in the bottom left-hand corner of the screen
+- Κάνε κλικ στο κουμπί **Προσθήκη επέκτασης** στην κάτω αριστερή γωνία της οθόνης
 
-![The add extention icon (two seperate blocks with an 'add' sign) is highlighted.](images/add-extension.png)
+![Το εικονίδιο προσθήκης επέκτασης (δύο ξεχωριστά μπλοκ με το σύμβολο "προσθήκη") έχει επισημανθεί.](images/add-extension.png)
 
-- Choose the Raspberry Pi Simple Electronics extension from the list
+- Επίλεξε την επέκταση Raspberry Pi Simple Electronics από τη λίστα
 
-![The Raspberry Pi Simple Electronics extension icon in the Extension list.](images/gpio-extension.png)
+![Το εικονίδιο επέκτασης Raspberry Pi Simple Electronics στη λίστα Επέκτασης.](images/gpio-extension.png)
