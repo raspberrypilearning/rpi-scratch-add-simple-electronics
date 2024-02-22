@@ -1,7 +1,7 @@
 ---
-title: Adding the Simple Electronics extension to Scratch
+title: Simple Electronics拡張機能をScratchに追加する
 hero_image: images/banner.png
-description: How to add the Simple Electronics extension to Scratch
+description: Simple Electronics拡張機能をScratchに追加する方法
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: "scratch"
 steps:
   - 
-    title: Add Simple Electronics extension
+    title: Simple Electronics拡張機能を追加する
