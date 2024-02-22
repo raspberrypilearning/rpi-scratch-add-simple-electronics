@@ -1,7 +1,7 @@
-- Click on the **Add Extension** button in the bottom left-hand corner of the screen
+- 画面の左下隅にある**拡張機能を追加**ボタンをクリックします
 
-![The add extention icon (two seperate blocks with an 'add' sign) is highlighted.](images/add-extension.png)
+![拡張機能を追加アイコン（2つのブロックにプラス記号が付いたもの）が強調表示されています。](images/add-extension.png)
 
-- Choose the Raspberry Pi Simple Electronics extension from the list
+- リストからRaspberry Pi Simple Electronics拡張機能を選択します
 
-![The Raspberry Pi Simple Electronics extension icon in the Extension list.](images/gpio-extension.png)
+![拡張機能リストのRaspberry Pi Simple Electronics拡張機能アイコン。](images/gpio-extension.png)
