@@ -1,7 +1,7 @@
-- Click on the **Add Extension** button in the bottom left-hand corner of the screen
+- Clique no botão **Adicionar extensão** no canto inferior esquerdo da tela
 
-![The add extention icon (two seperate blocks with an 'add' sign) is highlighted.](images/add-extension.png)
+![O ícone adicionar extensão (dois blocos separados com um sinal de '+') é destacado.](images/add-extension.png)
 
-- Choose the Raspberry Pi Simple Electronics extension from the list
+- Escolha a extensão Raspberry Pi Simple Electronics na lista
 
-![The Raspberry Pi Simple Electronics extension icon in the Extension list.](images/gpio-extension.png)
+![O ícone da extensão Raspberry Pi Simple Electronics na lista de extensões.](images/gpio-extension.png)
